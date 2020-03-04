@@ -15,6 +15,36 @@
 	box-shadow: 0 10px 30px rgba(0,0,0,.2);
 	flex-basis: 270px;
 	flex-grow: 1;
+
+}
+
+.text {
+	background: white;
+	padding:30px;
+	margin:10px;                           
+	border-radius: 6px;                        
+	box-shadow: 0 10px 30px rgba(0,0,0,.2);
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+
+#upper-card {
+	margin-top: 50px;
+}
+
+.bottom-paragraph{
+	margin-bottom: 40px;
+}
+
+
+.top-space{
+	margin-top: 80px;
+}
+
+#bottom-space{
+	margin-bottom: 80px;
 }
 
 #centered-card {
@@ -36,7 +66,9 @@
 }
 
 
-	
+#funkyfamily {
+	transform: rotate(90deg);
+}	
 
 .list-inline {
 	list-style: none;
@@ -51,9 +83,13 @@
 
 .list-inline i{
 	font-size: 30px;
-	color: #A0854B;
+	color: white;
 }
 .list-inline i:hover {
 	color :black;
+}
+
+.bottom {
+	margin-bottom: 50px;
 }
 

@@ -1,5 +1,5 @@
 .banner {
-	background-image: linear-gradient(-220deg, rgba(0,0,0,0.8),50%, rgba(0,0,0,0.1)), url(../../images/banner.jpg);
+	background-image: linear-gradient(-220deg, rgba(0,0,0,0.9),50%, rgba(0,0,0,0.1)), url(../../images/banner.jpg);
 	color: white;
 	padding :150px 0px;
 	background-size: cover;
@@ -16,5 +16,11 @@
 	font-size: 25px;
 	font-weight: 300;
 	opacity: 0.8;
-	margin-bottom: 50px;
+	margin-bottom: 60px;
+	line-height: 40px;
 }
+
+#gros {
+	font-size: 16px;
+}
+
